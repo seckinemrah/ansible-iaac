@@ -1,5 +1,5 @@
 ---
-- hosts: 
+- hosts: localhost
   tasks:
   - name: Create Sec Groups
     ec2_group:
