@@ -6,6 +6,7 @@
       name: Allow 80
       description: sg with rule descriptions
       region: us-east-1
+      #state: absent 
       rules:
         - proto: tcp
           ports:
