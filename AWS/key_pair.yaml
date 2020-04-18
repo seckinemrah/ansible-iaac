@@ -5,4 +5,5 @@
     ec2_key:
       name: bastion_host
       region: us-east-1
+      #state: absent
       key_material: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC+m14HQoV8atc1BaxtDh3YbmZfqGqd/5Pt7nNtOB/NjAYtzGrvQ5wk9v5ElWE1CNcc/4GuIS8ls36x9XkfgFBqZUf2r8imKO3ubqfb/KV18wvPMnk2oVY7ojqPfsa0yAcg7LlAHyUmdLZonJcGYrgpT7tL1OL8Nw8Nr6FRrlebirb0xC0pWZXKlr0VhnvAehStvtUcIArWP5OMkagsFQdSKs2vHDHUr4WZ22AmWC0eLpb5HB3epmHzr84dgkC5+GekVdDje0Ws+z5ibYjT9zwf+oXEsg+lbfQCsi3AAP9Vp4QMIClfNqL/jJ0F/nqkk66KcJeXc6GVi4DtwIPFO1AR centos@Ansible-IAAC'
